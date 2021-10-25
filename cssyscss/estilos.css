@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;600&family=Bangers&display=swap");
+body {
+  background: #fffffe;
+}
+
+html {
+  font-size: 89%;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  color: #432918;
+}
+
+h2 {
+  font-family: 'Courgette', cursive;
+  color: #432918;
+}
+
+h3 {
+  color: #1D4322;
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #D9A735;
+}
+
+hr {
+  color: #1D4322;
+  border: #1D4322;
+}
+
+.hr {
+  color: #432918;
+}
+
+.navegacion {
+  background-color: #432918;
+  width: 100%;
+  padding: 12px;
+}
+
+.navegacion-2 {
+  background-color: #1D4322;
+  width: 100%;
+  padding: 12px;
+}
+
+.color-a {
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  padding: 35px 15px;
+  font-size: 2rem;
+}
+
+.texto-home {
+  color: #1D4322;
+  font-family: 'Baloo Da 2', cursive;
+  font-size: 1.4rem;
+}
+
+.border-form {
+  border: solid;
+  color: #432918;
+  background-color: #D9A735;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2rem;
+}
+
+.text-form {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.6rem;
+}
+
+.espacio {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=estilos.css.map */
